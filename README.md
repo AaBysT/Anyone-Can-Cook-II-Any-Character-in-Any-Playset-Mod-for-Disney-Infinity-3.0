@@ -207,7 +207,7 @@ The funny part is that even getting in contact took a while. I found the **Disne
 
 Those hints were enough to point us toward the right architecture. From there, we kept digging, testing, comparing, breaking things, rebuilding things, and eventually turned those first ideas into the full system described above.
 So genuinely, thank you, Froggy. The final implementation became its own project, but some of the most important early signposts came from you.
-And credit to the **Disney Infinity 4.0 + Development Discord server** as the place where that connection happened and where part of the history of Disney Infinity development and modding still exists.
+And credit to the **Disney Infinity 4.0 + Development Discord server** as the place where that connection happened and where part of the history of Disney Infinity development and modding still exists. (https://discord.gg/MCVgPTfMPs)
 
 ---
 
