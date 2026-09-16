@@ -14,7 +14,7 @@ You guys won't believe how "simple" this all was. Simple, but hardcore.
 
 Disney Infinity 3.0 normally restricts characters depending on the Play Set, franchise, internal character lists, Play Set permissions, and several other systems spread across the game. This mod removes those restrictions and allows the full playable roster to be used across the four Disney Infinity 3.0 Play Sets included in Gold Edition: **Twilight of the Republic, Rise Against the Empire, Inside Out, and The Force Awakens**.
 
-This is not a model swap. The goal from the beginning was to use the **actual character**, with their real model, animations, moveset, abilities, projectiles, traversal, voice, HUD, health, combat behavior, progression data, toolsets, and special mechanics. Spider-Man can walk into Star Wars. Lightning McQueen can drive around a Play Set he was never officially allowed into. Venom can appear immediately after an emotional ass Inside Out cutscene and simply stand there like that was always supposed to happen.
+This is not a model swap. The goal from the beginning was to use the **actual character**, with their real model, animations, moveset, abilities, projectiles, traversal, voice, HUD, health, combat behavior, progression data, toolsets, and special mechanics. Spider-Man can walk into Star Wars. Lightning McQueen can drive around a Play Set he was never officially allowed into. Venom can appear immediately after that funny ass Inside Out cutscene and simply stand there like that was always supposed to happen.
 
 <img width="1023" height="575" alt="image" src="https://github.com/user-attachments/assets/dfe5a84f-2285-49d9-b3b5-06f77f69edf9" />
 
