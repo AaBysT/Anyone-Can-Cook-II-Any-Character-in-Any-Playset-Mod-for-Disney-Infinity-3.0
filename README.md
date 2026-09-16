@@ -1,15 +1,23 @@
 # Disney-Infinity-3.0-Any-Character-in-Any-Playset
 A mod for Disney Infinity 3.0 that allows any character in any playset.
 
+<img width="1366" height="768" alt="20260915182109_1" src="https://github.com/user-attachments/assets/0ad62833-e3c8-4d5d-967d-f13eca33f53b" />
+
+
 Well, as i said.. didn't wanna wait for someone to do this or nothing so i did it myself.
 You guys won't believe how "simple" this all was. Simple, but hardcore.
 
 
 ##                                                          What does this mod do?
 
+<img width="1366" height="768" alt="20260915182109_1" src="https://github.com/user-attachments/assets/fdfc0e8f-7f63-403f-98b9-de45d2b78443" />
+
 Disney Infinity 3.0 normally restricts characters depending on the Play Set, franchise, internal character lists, Play Set permissions, and several other systems spread across the game. This mod removes those restrictions and allows the full playable roster to be used across the four Disney Infinity 3.0 Play Sets included in Gold Edition: **Twilight of the Republic, Rise Against the Empire, Inside Out, and The Force Awakens**.
 
-This is not a model swap. The goal from the beginning was to use the **actual character**, with their real model, animations, moveset, abilities, projectiles, traversal, voice, HUD, health, combat behavior, progression data, toolsets, and special mechanics. Spider-Man can walk into Star Wars. Lightning McQueen can drive around a Play Set he was never officially allowed into. Venom can appear immediately after an emotional Inside Out cutscene and simply stand there like that was always supposed to happen.
+This is not a model swap. The goal from the beginning was to use the **actual character**, with their real model, animations, moveset, abilities, projectiles, traversal, voice, HUD, health, combat behavior, progression data, toolsets, and special mechanics. Spider-Man can walk into Star Wars. Lightning McQueen can drive around a Play Set he was never officially allowed into. Venom can appear immediately after an emotional ass Inside Out cutscene and simply stand there like that was always supposed to happen.
+
+<img width="1023" height="575" alt="image" src="https://github.com/user-attachments/assets/dfe5a84f-2285-49d9-b3b5-06f77f69edf9" />
+
 
 The strangest part is how naturally the game handles most of it.
 
@@ -234,5 +242,8 @@ Simple, but hardcore.
 So here it is: the mod, the process, the discoveries... and the result.
 
 Have fun, you babies S2 xoxo and all that jazz!!
+
+<img width="707" height="508" alt="image" src="https://github.com/user-attachments/assets/9ea49fe9-d98d-4d67-8a6c-b179c9221f9d" />
+
 
 
