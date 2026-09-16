@@ -10,7 +10,7 @@ You guys won't believe how "simple" this all was. Simple, but hardcore.
 
 ##                                                          What does this mod do?
 
-<img width="1366" height="768" alt="20260915182109_1" src="https://github.com/user-attachments/assets/fdfc0e8f-7f63-403f-98b9-de45d2b78443" />
+<img width="1366" height="768" alt="20260915171316_1" src="https://github.com/user-attachments/assets/e8433bf4-66ab-4897-b9bd-6131cc954216" />
 
 Disney Infinity 3.0 normally restricts characters depending on the Play Set, franchise, internal character lists, Play Set permissions, and several other systems spread across the game. This mod removes those restrictions and allows the full playable roster to be used across the four Disney Infinity 3.0 Play Sets included in Gold Edition: **Twilight of the Republic, Rise Against the Empire, Inside Out, and The Force Awakens**.
 
