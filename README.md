@@ -1,5 +1,5 @@
 # ｡❈  🎀  𝒜𝓃𝓎𝑜𝓃𝑒 𝒸𝒶𝓃 𝒸𝑜𝑜𝓀  🎀  ❈｡
-A mod for Disney Infinity 3.0 that allows any character in any playset.
+A mod for Disney Infinity 3.0 that allows any character in any playset. Compatible with Breeze + Continuum.
 
 <img width="1366" height="768" alt="20260915182109_1" src="https://github.com/user-attachments/assets/0ad62833-e3c8-4d5d-967d-f13eca33f53b" />
 
